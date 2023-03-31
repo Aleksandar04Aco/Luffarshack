@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14efbe20-3263-429a-a232-2e1f2f02bdaf" name="Changes" comment="Början på slutprojekt">
-      <change afterPath="$PROJECT_DIR$/baguete.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyFrame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Jframe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Jframe.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +58,8 @@
       <workItem from="1679305554522" duration="1664000" />
       <workItem from="1679904856268" duration="3304000" />
       <workItem from="1679908267441" duration="596000" />
-      <workItem from="1680091757705" duration="1063000" />
+      <workItem from="1680091757705" duration="2391000" />
+      <workItem from="1680283515001" duration="5721000" />
     </task>
     <task id="LOCAL-00001" summary="Början på slutprojekt">
       <created>1679908115173</created>
@@ -87,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680091821745</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Början på slutprojekt">
+      <created>1680092956804</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1680092956804</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
